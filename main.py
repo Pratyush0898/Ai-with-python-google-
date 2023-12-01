@@ -6,7 +6,7 @@ def search_google(query):
     return search_results[0] if search_results else None
 
 def main():
-    print("Welcome to the Google AI Assistant!")
+    print("Welcome to the Pratyush A.I Assistant!")
     while True:
         user_query = input("Ask me a question (type 'exit' to end): ")
         
